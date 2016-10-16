@@ -1,4 +1,4 @@
-### Welcome to Bytepoch
+### Welcome to BytEpoch
 A questions and answers site for the enthusiastic programmers and anyone with the knack for programming can contribute. [Learn more...](http://www.bytepoch.com/)
 
 ### Screenshots
