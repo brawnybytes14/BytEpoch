@@ -1,5 +1,5 @@
 ### Welcome to BytEpoch
-A questions and answers site for the enthusiastic programmers and anyone with the knack for programming can contribute. [Learn more...](http://www.bytepoch.com/)
+A questions and answers site for the enthusiastic programmers and anyone with the knack for programming can contribute.
 
 ### Screenshots
 ![Questions](https://c1.staticflickr.com/9/8417/30047242090_22fd3f3367_b.jpg)
